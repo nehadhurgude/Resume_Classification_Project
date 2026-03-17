@@ -57,7 +57,7 @@ Instructions for setting up and running the project.
 
 ### 1. Clone the Repository
 
-git clone https://github.com/your-username/Resume-Classification-Project.git
+git clone https://github.com/nehadhurgude/Resume-Classification-Project.git
 
 cd Resume-Classification-Project
 

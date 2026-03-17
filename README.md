@@ -2,15 +2,14 @@
 
 ## Overview
 
-This project classifies resumes into different job profiles such as React Developer, SQL Developer, Peoplesoft, and Workday using Natural Language Processing (NLP) and Machine Learning.
+This project is an AI-based Resume Classification System that categorizes resumes into different job roles such as React Developer, SQL Developer, Peoplesoft, and Workday using Natural Language Processing (NLP) and Machine Learning.
 
 The project includes:
-
 * Resume text extraction
-* Exploratory data analysis (EDA)
-* Feature extraction using vectorization
+* Exploratory Data Analysis (EDA)
+* Feature extraction using TF-IDF vectorization
 * Machine learning model training
-* A web application for resume classification
+* Web-based application for classification
 
 ---
 
@@ -123,6 +122,7 @@ or
 python Resume_app1.py
 
 After running the script, open the local server URL shown in the terminal in your browser.
+The system will classify the uploaded resume into a predicted job category.
 
 ---
 
@@ -155,21 +155,22 @@ print(prediction)
 
 ## Notes
 
-* If training the model again, follow the steps in **Model_Building_Final.ipynb**.
-* Ensure dataset paths in the scripts match your folder structure.
-* If using Mac or Linux, adjust the virtual environment activation commands accordingly.
+* Follow steps in Model_Building_Final.ipynb to retrain the model
+* Ensure correct dataset paths before running scripts
+* Adjust virtual environment commands based on your OS
 
 ---
 
 ## Author
 
-Tanvi Powar
+Neha Dhurgude
 
 ---
 
 ## Future Improvements
 
-* Improve classification accuracy with advanced NLP techniques
+* Improve accuracy using advanced NLP models like BERT
 * Add more job categories
-* Deploy the application using Streamlit or Flask
+* Enhance UI/UX of the web application
+* Deploy using cloud platforms (Render / AWS / Streamlit)
 

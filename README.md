@@ -13,23 +13,6 @@ The project includes:
 
 ---
 
-## Project Screenshots
-
-### Dashboard
-![WhatsApp Image 2026-03-16 at 10 49 15 PM](https://github.com/user-attachments/assets/465382fd-736f-46c8-a601-643e20744b0d)
-
-### Data Preview
-![WhatsApp Image 2026-03-16 at 10 49 48 PM](https://github.com/user-attachments/assets/2420d9bb-081d-44e0-8a42-9e12403fd06f)
-
-
-### Model Prediction
-![WhatsApp Image 2026-03-16 at 10 51 20 PM](https://github.com/user-attachments/assets/91984506-58ae-44e4-b1a1-73b09120f936)
-![WhatsApp Image 2026-03-16 at 10 51 47 PM](https://github.com/user-attachments/assets/dfb800b1-b2ae-413e-b04f-c9d724c7cc8d)
-![WhatsApp Image 2026-03-16 at 10 52 36 PM](https://github.com/user-attachments/assets/9452249e-64e3-47c5-bdd2-4c55d5f1dbee)
-
-
----
-
 ## Repository Structure
 
 Resume_Classification_Project
